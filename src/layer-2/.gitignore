@@ -1,0 +1,4 @@
+build
+node-config
+node*
+docker-compose*
