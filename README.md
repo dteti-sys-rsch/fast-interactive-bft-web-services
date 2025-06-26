@@ -1,4 +1,4 @@
-# Fault-Tolerant Web Services Using Blockchain
+# Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based Consensus Decoupling
 
 Ahmad Zaki Akmal - 21/480179/TK/52981
 
@@ -8,4 +8,5 @@ Universitas Gadjah Mada
 
 ## Documents
 
-TBA
+- [Paper](./docs/Paper.pdf)
+- [Thesis](./docs/Thesis.pdf)
